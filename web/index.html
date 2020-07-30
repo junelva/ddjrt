@@ -1,0 +1,37 @@
+<!doctype html>
+
+<html>
+
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding"><title>Dao De Jing Reference Tool</title>
+
+<!-- https://stackoverflow.com/a/11689448 this fixes zoom issues on mobile -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+<link rel="stylesheet" type="text/css" href="./src/style.css">
+</head>
+
+<body>
+
+<main>
+    <table id="header">
+        <tr>
+            <td rowspan=2 class="select_cell"><select name="Chapter" id="select_chapter"></select></td>
+            <td class="page_title">Dao De Jing 道德經 by Laozi 老子</td>
+        </tr>
+        <tr>
+            <td class="page_title">Reference Tool</td>
+        </tr>
+    </table>
+    <button id="button_left" class="fl">Previous</button>
+    <button id="button_right">Next</button>
+
+    <table id="chapter_output"></table>
+</main>
+
+<script src="./src/data.js"></script>
+<script src="./src/main.js"></script>
+
+</body>
+</html>
