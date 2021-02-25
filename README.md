@@ -1,7 +1,7 @@
 # ddjrt
 A simple tool to aid in studying the Dao De Jing for English readers.
 
-Published here: https://vrav.itch.io/ddjrt
+Published here: https://jynell.itch.io/ddjrt
 
 This tool heavily utilizes two projects released under CC-BY-SA. https://creativecommons.org/licenses/by-sa/4.0/ The translation used is released under CC-BY-SA 2.0. https://creativecommons.org/licenses/by-sa/2.0/ As a result, this project is released under CC-BY-SA as well.
 
